@@ -104,7 +104,7 @@ These apply to real life, as well.
 * Assignments - 25%: Each assignment will involve writing (or modifying a template of)
    a small Python program or a documentation of an open source contribution.
 
-* Project - 50%: one original project done alone or in a group of 2 or 3
+* Project - 50%: one original project a group of 4
    students. The project will explore one or more of the themes covered
    in the course that students find particularly compelling.  The
    group needs to submit a project proposal (2 pages IEEE format).  The proposal
