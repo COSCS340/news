@@ -225,126 +225,12 @@ See above
 
 [MiniTasks]
 
-Good quality commit messages (references)
+Good quality commit messages
 
-Issues that describe what is needed in a sprint(references)
+Issues that describe what is needed in a sprint
 
 How to get a contribution accepted in an oss project
 
 How to find project to learn from
 
 The project quality index
-
-
-
-OSS stats
-
-#top n2t
-bin;5380892
-modules;5646262
-include;5732340
-public;5827817
-resources;6161115
-core;7258717
-models;7760373
-tests;7767510
-assets;7770179
-templates;8285469
-config;8682127
-css;9851452
-controllers;9908469
-trunk;10123445
-js;12168130
-org;13533091
-com;15648367
-test;15984997
-views;16786864
-lib;17633856
-java;22526607
-main;22918075
-app;23153038
-src;81784145
-
-
-top f2b
-atom.xml;6525026
-Makefile;7052986
-latest;9832703
-pom.xml;10387794
-README.md;23428119
-index.html;48591034
-
-
-
-############## Cluster Hire
-Alex Bentley rabentley@utk.edu
-
-Done
-
-Dawnie Steadman osteo@utk.edu
-
-Sudarsanam Babu sbabu@utk.edu
-
-Jian Huang huangj@utk.edu
-
-Michael Langston  langston@utk.edu
-
-Michael Berry  mberry@utk.edu
-Hairong Qi hqi@utk.edu
-Greg Peterson gdp@utk.edu
-
-Leon Tolbert tolbert@utk.edu
-Kevin Tomsovic ktomsovi@utk.edu
-Yilu Liu  liu@utk.edu
-
-
-John Kobza jkobza@utk.edu
-Anahita Khojandi khojandi@utk.edu
-Jim Ostrowski jostrows@utk.edu
-
-
-Charles Noon cnoon@utk.edu
-Jack Dongarra dongarra@utk.edu
-
-
-Vasilieos Maroulas maroulas@math.utk.edu
-Conrad Plaut cplaut@utk.edu
-
-
-Suzie Allard sallard@utk.edu
-Diane Kelly dianek@utk.edu
-Vandana Singh vandana@utk.edu
-
-
-Andy Puckett pucketta@utk.edu 
-Bill Fox BillFox@utk.edu
-Matt Harris mharris@utk.edu 
-
-
-Tami Wyatt Twyatt@utk.edu
-Rebecca Koszalinski rkoszali@utk.edu
-
-
-The lack of reproducibility in many areas of science is perceived as
-a major problem [2] since the basic premise of science relies on the
-ability to falsify theories [5]. It is especially relevant in data
-science in big data settings where the data may be difficult to
-share due to its size, complexity, and its proprietary or private
-nature. Contemporary science relies not only on large amounts of,
-typically, non-experimental data, but it also critically relies on
-software and computational workflows that are essential to produce
-measurements with precise semantics within the corresponding
-scientific theories. As such, reproducibility requires not simply
-the data but also the easy-to-use software code, environments, and
-frameworks used to produce, augment, contextualize, and validate
-measurements in the first place. The critical aspect of both
-synthesis and reproducibility of science is, therefore the ability
-to store data, metadata, paradata, and data collection, curation,
-and analysis code in a collaborative environment, thus reducing
-tremendous obstacles to scientific progress that exist in most
-contemporary scientific and engineering domains. We, therefore
-propose to strengthen data science research for selected domains
-involving big data by developing unparalleled infrastructure with
-computational facilities, data, and associated software tools to
-serve as the 21st century version of the measurement instrument, the
-library, and the experimental testbed. 
