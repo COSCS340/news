@@ -1,9 +1,9 @@
 # Class 2: Jan 15
   * Version Control (continued)
-  * Project options
+  * Project [options](https://github.com/COSCS340/news/blob/master/ProjectIdeas.md)
 
 # Class 2: Jan 12
-   * Version Control [slides](https://github.com/COSCS340/lectures/blob/master/vesrion_control.pdf)
+   * Version Control [slides](https://github.com/COSCS340/lectures/blob/master/version_control.pdf)
 
 # Class 1: Jan 10
    * Introductions
