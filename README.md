@@ -1,4 +1,4 @@
-# Class 2: Jan 15
+# Class 3: Jan 17
   * Version Control (continued)
   * Project [options](https://github.com/COSCS340/news/blob/master/ProjectIdeas.md)
 
