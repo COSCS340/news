@@ -4,7 +4,7 @@
   
 # Class 3: Jan 17
   * Project [options](https://github.com/COSCS340/news/blob/master/ProjectIdeas.md)
-  * Please submit project idea as a pull request to students repository (in an .md file)
+  * Please submit project idea as a pull request to students repository (in an A_prjname.md file, please prepend A_ to project name to differentiate from netid.md files)
      - Title
      - Basic idea
      - Technology used 
