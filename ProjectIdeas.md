@@ -1,6 +1,6 @@
 # Project ideas
 
-## A system to support social interacttion analysis
+## A system to support social interaction analysis
 
 Given a set of twitter accounts, the system retrieves, store, cleans, and does basic text processing and/or social network 
 analysis on the set of accounts and accounts that interacted with these accounts. 
