@@ -1,7 +1,14 @@
-# Class 3: Jan 17
+# Class 3: Jan 19
   * Version Control (continued)
+  
+# Class 3: Jan 17
   * Project [options](https://github.com/COSCS340/news/blob/master/ProjectIdeas.md)
-
+  * Please submit project idea as a pull request to students repository (in an .md file)
+     - Title
+     - Basic idea
+     - Technology used 
+     - Members (and if additional members are needed to get up to four)
+  
 # Class 2: Jan 12
    * Version Control [slides](https://github.com/COSCS340/lectures/blob/master/version_control.pdf)
 
