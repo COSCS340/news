@@ -13,8 +13,8 @@
 * **Course:** [COSCS-340]
 * ** MK404  MWF  12:20PM-01:10PM (Min Kao 404) **
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
-* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK619 TBD
-* **TA:** Walton Macey,  [wmacey@vols.utk.edu](mailto:wmaceyy@vols.utk.edu) office hours MK619 TBD
+* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK204 TBD
+* **TA:** Walton Macey,  [wmacey@vols.utk.edu](mailto:wmaceyy@vols.utk.edu) office hours MK204 Tu&Th 9:30 to 11:00
 * **Need help?**
 
 Simple rules: 
