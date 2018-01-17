@@ -3,6 +3,7 @@
   * Discuss project proposals (as opposed to ideas)
   
 # Class 3: Jan 17
+  * Please accept the invitation to github organization for the class (you got invite in the email, but, if you misplaced it, you can accept invite at https://github.com/organizations/COSCS340/settings/profile)
   * Project [options](https://github.com/COSCS340/news/blob/master/ProjectIdeas.md)
   * Please submit project idea as a pull request to students repository (in an A_prjname.md file, please prepend A_ to project name to differentiate from netid.md files)
      - Title
