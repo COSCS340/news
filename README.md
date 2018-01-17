@@ -1,4 +1,4 @@
-# Class 4: Jan 19
+Monday and Wednesday: 1:15 - 2:15# Class 4: Jan 19
   * Version Control (continued)
   * Discuss project proposals (as opposed to ideas)
   
@@ -22,7 +22,7 @@
 * **Course:** [COSCS-340]
 * ** MK404  MWF  12:20PM-01:10PM (Min Kao 404) **
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
-* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK204 TBD
+* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK204 Mon&Wed: 1:15 to 2:15
 * **TA:** Walton Macey,  [wmacey@vols.utk.edu](mailto:wmaceyy@vols.utk.edu) office hours MK204 Tu&Th 9:30 to 11:00
 * **Need help?**
 
