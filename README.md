@@ -1,5 +1,8 @@
-Monday and Wednesday: 1:15 - 2:15# Class 4: Jan 19
+# Class 5: Jan 22
   * Version Control (continued)
+  * Introduction to Software Engineering
+
+# Class 4: Jan 19
   * Discuss project proposals (as opposed to ideas)
   
 # Class 3: Jan 17
