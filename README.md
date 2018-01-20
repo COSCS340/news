@@ -1,12 +1,20 @@
+# Class 6: Jan 22
+  * Issue trackig / sprints 
+     - https://codetree.com/guides/sprint-planning-github-issues
+     - https://zube.io/blog/agile-project-management-workflow-for-github-issues/
+  
 # Class 5: Jan 22
   * Version Control (continued)
   * Introduction to Software Engineering
-
+  * Not all project ideas are submitted to https://github.com/COSCS340/students
+     - Please submit if you have not done so
+     - Please chose one of the projects if you have not done so (many are looking for participants)
+  
 # Class 4: Jan 19
   * Discuss project proposals (as opposed to ideas)
   
 # Class 3: Jan 17
-  * Please accept the invitation to github organization for the class (you got invite in the email, but, if you misplaced it, you can accept invite at https://github.com/COSCS340 thre will be a line at the top suggectin to accept the invite)
+  * Please accept the invitation to github organization for the class (you got invite in the email, but, if you misplaced it, you can accept invite at https://github.com/COSCS340 there will be a line at the top suggectin to accept the invite)
   * Project [options](https://github.com/COSCS340/news/blob/master/ProjectIdeas.md)
   * Please submit project idea as a pull request to students repository (in an A_prjname.md file, please prepend A_ to project name to differentiate from netid.md files)
      - Title
