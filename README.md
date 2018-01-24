@@ -1,4 +1,4 @@
-# Class 6: Jan 26
+# Class 7: Jan 26
   * Project proposal is due 
      - See requirements in https://github.com/COSCS340/lectures/blob/master/project_proposal.pdf
      
