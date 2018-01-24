@@ -1,4 +1,8 @@
-# Class 6: Jan 22
+# Class 6: Jan 26
+  * Project proposal is due 
+     - See requirements in https://github.com/COSCS340/lectures/blob/master/project_proposal.pdf
+     
+# Class 6: Jan 24
   * Issue trackig / sprints 
      - https://codetree.com/guides/sprint-planning-github-issues
      - https://zube.io/blog/agile-project-management-workflow-for-github-issues/
