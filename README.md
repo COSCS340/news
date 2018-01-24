@@ -1,3 +1,6 @@
+# Class 9: Jan 29
+  * Create sprint issues for your project repository https://github.com/COSCS340/lectures/blob/master/project_proposal.pdf
+  
 # Class 7: Jan 26
   * Project proposal is due 
      - See requirements in https://github.com/COSCS340/lectures/blob/master/project_proposal.pdf
