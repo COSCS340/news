@@ -1,3 +1,21 @@
+# Class 14: Feb 7
+  * Chose an Open Source project to contribute to
+
+# Class 13: Feb 7
+  * Project Management
+  * Contributing to an Open Source Project
+
+# Class 12: Feb 5
+  * Project Management
+  * Contributing to an Open Source Project
+
+# Class 11: Feb 2
+  * Finalize sprint implementation as issues for your project  
+
+# Class 10: Jan 31
+  * Continuous build (dockerhub)
+  * Google cloud
+
 # Class 9: Jan 29
   * Create sprint issues for your project repository https://github.com/COSCS340/lectures/blob/master/project_proposal.pdf
   
