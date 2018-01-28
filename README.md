@@ -1,4 +1,4 @@
-# Class 14: Feb 7
+# Class 14: Feb 9
   * Chose an Open Source project to contribute to
 
 # Class 13: Feb 7
