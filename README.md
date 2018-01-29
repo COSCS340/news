@@ -18,7 +18,8 @@
 
 # Class 9: Jan 29
   * Create sprint issues for your project repository
-    https://codetree.com/guides/sprint-planning-github-issues
+     - https://zube.io/blog/agile-project-management-workflow-for-github-issues/
+     - https://codetree.com/guides/sprint-planning-github-issues
   
 # Class 7: Jan 26
   * Project proposal is due 
