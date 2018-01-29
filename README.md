@@ -1,10 +1,67 @@
+# Class 14: Feb 9
+  * Chose an Open Source project to contribute to
+
+# Class 13: Feb 7
+  * Project Management
+  * Contributing to an Open Source Project
+
+# Class 12: Feb 5
+  * Project Management
+  * Contributing to an Open Source Project
+
+# Class 11: Feb 2
+  * Finalize sprint implementation as issues for your project  
+
+# Class 10: Jan 31
+  * Continuous build (dockerhub)
+  * Google cloud
+
+# Class 9: Jan 29
+  * Create sprint issues for your project repository
+     - https://zube.io/blog/agile-project-management-workflow-for-github-issues/
+     - https://codetree.com/guides/sprint-planning-github-issues
+  
+# Class 7: Jan 26
+  * Project proposal is due 
+     - See requirements in https://github.com/COSCS340/lectures/blob/master/project_proposal.pdf
+     
+# Class 6: Jan 24
+  * Issue trackig / sprints 
+     - https://codetree.com/guides/sprint-planning-github-issues
+     - https://zube.io/blog/agile-project-management-workflow-for-github-issues/
+  
+# Class 5: Jan 22
+  * Version Control (continued)
+  * Introduction to Software Engineering
+  * Not all project ideas are submitted to https://github.com/COSCS340/students
+     - Please submit if you have not done so
+     - Please chose one of the projects if you have not done so (many are looking for participants)
+  
+# Class 4: Jan 19
+  * Discuss project proposals (as opposed to ideas)
+  
+# Class 3: Jan 17
+  * Please accept the invitation to github organization for the class (you got invite in the email, but, if you misplaced it, you can accept invite at https://github.com/COSCS340 there will be a line at the top suggectin to accept the invite)
+  * Project [options](https://github.com/COSCS340/news/blob/master/ProjectIdeas.md)
+  * Please submit project idea as a pull request to students repository (in an A_prjname.md file, please prepend A_ to project name to differentiate from netid.md files)
+     - Title
+     - Basic idea
+     - Technology used 
+     - Members (and if additional members are needed to get up to four)
+  
+# Class 2: Jan 12
+   * Version Control [slides](https://github.com/COSCS340/lectures/blob/master/version_control.pdf)
+
+# Class 1: Jan 10
+   * Introductions
+
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
 * ** MK404  MWF  12:20PM-01:10PM (Min Kao 404) **
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
-* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK619 TBD
-* **TA:** Walton Macey,  [wmacey@vols.utk.edu](mailto:wmaceyy@vols.utk.edu) office hours MK619 TBD
+* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK204 Mon&Wed: 1:15 to 2:15
+* **TA:** Walton Macey,  [wmacey@vols.utk.edu](mailto:wmaceyy@vols.utk.edu) office hours MK618 Tu&Th 9:30 to 11:00
 * **Need help?**
 
 Simple rules: 
@@ -104,7 +161,7 @@ These apply to real life, as well.
 * Assignments - 25%: Each assignment will involve writing (or modifying a template of)
    a small Python program or a documentation of an open source contribution.
 
-* Project - 50%: one original project done alone or in a group of 2 or 3
+* Project - 50%: one original project a group of 4
    students. The project will explore one or more of the themes covered
    in the course that students find particularly compelling.  The
    group needs to submit a project proposal (2 pages IEEE format).  The proposal
@@ -225,126 +282,12 @@ See above
 
 [MiniTasks]
 
-Good quality commit messages (references)
+Good quality commit messages
 
-Issues that describe what is needed in a sprint(references)
+Issues that describe what is needed in a sprint
 
 How to get a contribution accepted in an oss project
 
 How to find project to learn from
 
 The project quality index
-
-
-
-OSS stats
-
-#top n2t
-bin;5380892
-modules;5646262
-include;5732340
-public;5827817
-resources;6161115
-core;7258717
-models;7760373
-tests;7767510
-assets;7770179
-templates;8285469
-config;8682127
-css;9851452
-controllers;9908469
-trunk;10123445
-js;12168130
-org;13533091
-com;15648367
-test;15984997
-views;16786864
-lib;17633856
-java;22526607
-main;22918075
-app;23153038
-src;81784145
-
-
-top f2b
-atom.xml;6525026
-Makefile;7052986
-latest;9832703
-pom.xml;10387794
-README.md;23428119
-index.html;48591034
-
-
-
-############## Cluster Hire
-Alex Bentley rabentley@utk.edu
-
-Done
-
-Dawnie Steadman osteo@utk.edu
-
-Sudarsanam Babu sbabu@utk.edu
-
-Jian Huang huangj@utk.edu
-
-Michael Langston  langston@utk.edu
-
-Michael Berry  mberry@utk.edu
-Hairong Qi hqi@utk.edu
-Greg Peterson gdp@utk.edu
-
-Leon Tolbert tolbert@utk.edu
-Kevin Tomsovic ktomsovi@utk.edu
-Yilu Liu  liu@utk.edu
-
-
-John Kobza jkobza@utk.edu
-Anahita Khojandi khojandi@utk.edu
-Jim Ostrowski jostrows@utk.edu
-
-
-Charles Noon cnoon@utk.edu
-Jack Dongarra dongarra@utk.edu
-
-
-Vasilieos Maroulas maroulas@math.utk.edu
-Conrad Plaut cplaut@utk.edu
-
-
-Suzie Allard sallard@utk.edu
-Diane Kelly dianek@utk.edu
-Vandana Singh vandana@utk.edu
-
-
-Andy Puckett pucketta@utk.edu 
-Bill Fox BillFox@utk.edu
-Matt Harris mharris@utk.edu 
-
-
-Tami Wyatt Twyatt@utk.edu
-Rebecca Koszalinski rkoszali@utk.edu
-
-
-The lack of reproducibility in many areas of science is perceived as
-a major problem [2] since the basic premise of science relies on the
-ability to falsify theories [5]. It is especially relevant in data
-science in big data settings where the data may be difficult to
-share due to its size, complexity, and its proprietary or private
-nature. Contemporary science relies not only on large amounts of,
-typically, non-experimental data, but it also critically relies on
-software and computational workflows that are essential to produce
-measurements with precise semantics within the corresponding
-scientific theories. As such, reproducibility requires not simply
-the data but also the easy-to-use software code, environments, and
-frameworks used to produce, augment, contextualize, and validate
-measurements in the first place. The critical aspect of both
-synthesis and reproducibility of science is, therefore the ability
-to store data, metadata, paradata, and data collection, curation,
-and analysis code in a collaborative environment, thus reducing
-tremendous obstacles to scientific progress that exist in most
-contemporary scientific and engineering domains. We, therefore
-propose to strengthen data science research for selected domains
-involving big data by developing unparalleled infrastructure with
-computational facilities, data, and associated software tools to
-serve as the 21st century version of the measurement instrument, the
-library, and the experimental testbed. 
