@@ -1,17 +1,21 @@
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
+  * Finish assignment: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running
 
 # Class 13: Feb 7
-  * Project Management
+  * Software Process
   * Contributing to an Open Source Project
 
 # Class 12: Feb 5
-  * Project Management
+  * Software Process 
   * Contributing to an Open Source Project
 
 # Class 11: Feb 2
   * Finalize sprint implementation as issues for your project  
-
+     [see QC Project as an example](https://github.com/COSCS340/QuantifyingCorruption/issues)
+  * Software Process
+  * GC assignment: create a docker container automatically built by dockerhub, deploy to GC, provide IP adress of the machine so that I can check if the web service
+   
 # Class 10: Jan 31
   * Continuous build (dockerhub)
   * Google cloud
