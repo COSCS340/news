@@ -9,6 +9,7 @@
 # Class 12: Feb 5
   * Software Process 
   * Contributing to an Open Source Project
+  * [Asignment1 due on Friday](https://github.com/COSCS340/webserver) 
 
 # Class 11: Feb 2
   * Finalize sprint implementation as issues for your project  
