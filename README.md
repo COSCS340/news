@@ -1,6 +1,6 @@
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
-  * Finish assignment: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running
+  * Finish Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running
 
 # Class 13: Feb 7
   * Software Process
