@@ -9,7 +9,7 @@
 
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
-  * Will work on finishing Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running
+  * Will work on finishing Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running: see recent status (as of last commit) in [results.md](http://github.com/COSCS340/webserver/blob/master/results.md)
   * Please take a look at [your team status](https://github.com/COSCS340/webserver), mailestones and assignees are still missing.
 
 # Class 13: Feb 7
