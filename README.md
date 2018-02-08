@@ -1,6 +1,16 @@
+# Class 17: Feb 16
+  * a final OSS projects is selected 
+  
+# Class 16: Feb 14
+  * a candidate set of at least two projects is submitted 
+
+# Class 15: Feb 12
+  * a criteria for project selection is submitted 
+
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
-  * Finish Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running
+  * Will work on finishing Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running
+  * Please take a look at [your team status](https://github.com/COSCS340/webserver), mailestones and assignees are still missing.
 
 # Class 13: Feb 7
   * Software Process
