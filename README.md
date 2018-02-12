@@ -3,6 +3,7 @@
   
 # Class 16: Feb 14
   * a candidate set of at least two projects is submitted 
+      for options see [Section A](https://github.com/COSCS340/lectures/blob/master/ContributingToOSS.md). The instructions on how to submit are [here](https://github.com/COSCS340/oss/blob/master/README.md)
 
 # Class 15: Feb 12
   * Will decide upon criteria to be used for OSS project selection
