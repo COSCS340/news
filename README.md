@@ -17,6 +17,7 @@
        1. Add an estimate of effort [x] in points in the issue title, for example: "Restructure data [3]" (use 1 2 or 3)
        1. Create Pull Request in sprint milestone with tag "Ready to review"
        1. If you'd like you can use [zenhub](https://www.zenhub.com/blog/how-to-use-github-agile-project-management/)
+  * Will start lecture on [Architecture](https://github.com/COSCS340/lectures/blob/master/seoftware_architecture.pdf)
 
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
