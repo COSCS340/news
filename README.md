@@ -5,11 +5,13 @@
   * a candidate set of at least two projects is submitted 
 
 # Class 15: Feb 12
-  * a criteria for project selection is submitted 
+  * Will decide upon criteria to be used for OSS project selection
+  * Final opportunity to finish Assignment 1: [see details: thanks @robobenklein]https://github.com/COSCS340/How-to-Gcloud/blob/master/README.md) or [original instructions](https://github.com/COSCS340/webserver/blob/master/README.md)
+  * Ensure all projects have milestones and all members are assigned an issue (for the current sprint milestone) 
 
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
-  * Will work on finishing Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running: see recent status (as of last commit) in [results.md](http://github.com/COSCS340/webserver/blob/master/results.md)
+  * Will work on finishing Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running: see recent status (as of last commit) in [results.md](http://github.com/COSCS340/webserver/blob/master/results.md) Thank you @bobzap66 for the presentation in class
   * Please take a look at [your team status](https://github.com/COSCS340/webserver), mailestones and assignees are still missing.
 
 # Class 13: Feb 7
