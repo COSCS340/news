@@ -8,6 +8,12 @@
   * Will decide upon criteria to be used for OSS project selection
   * Final opportunity to finish Assignment 1: [see details: thanks @robobenklein]https://github.com/COSCS340/How-to-Gcloud/blob/master/README.md) or [original instructions](https://github.com/COSCS340/webserver/blob/master/README.md)
   * Ensure all projects have milestones and all members are assigned an issue (for the current sprint milestone) 
+  	i. Create a milestone "Backlog" (or whatever name) with no due date : it will be your backlog
+        i. Create a milestone per Sprint with a due date
+	i. Create issues in milestone "Backlog"
+	i. Create two labels "Ready to review" and "In Progress"
+	i. Add an estimate of effort [x] in points in the issue title, for example: "Restructure data [3]" (use 1 2 or 3)
+	i. Create Pull Request in sprint milestone with tag "Ready to review"
 
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
