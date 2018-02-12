@@ -6,7 +6,7 @@
 
 # Class 15: Feb 12
   * Will decide upon criteria to be used for OSS project selection
-  * Final opportunity to finish Assignment 1: [see details (thanks @robobenklein)]https://github.com/COSCS340/How-to-Gcloud/blob/master/README.md) or [original instructions](https://github.com/COSCS340/webserver/blob/master/README.md)
+  * Final opportunity to finish Assignment 1: [see details: thanks @robobenklein]https://github.com/COSCS340/How-to-Gcloud/blob/master/README.md) or [original instructions](https://github.com/COSCS340/webserver/blob/master/README.md)
 
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
