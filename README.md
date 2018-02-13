@@ -1,9 +1,22 @@
+# Class 20: Feb 23
+  * Work on Final Project and OSS contribution
+
+# Class 19: Feb 21
+  * Work on Final Project and OSS contribution
+
+# Class 18: Feb 19
+  * Final OSS projects selected and submitted in (by editing the same oss/yournetid.md file)
+
 # Class 17: Feb 16
-  * a final OSS projects is selected 
+  * Work on Final Project Sprint 1 due
+  * Work on selecting OSS project
   
 # Class 16: Feb 14
-  * a candidate set of at least two projects is submitted 
+  * A candidate set of at least two projects is to be submitted 
       for options see [Section A](https://github.com/COSCS340/lectures/blob/master/ContributingToOSS.md). The instructions on how to submit are [here](https://github.com/COSCS340/oss/blob/master/README.md)
+  * An issue for each one of you has been created regarding this assignment
+  * I will create another issue for the project selection
+  * Continue lecture on software architecture
 
 # Class 15: Feb 12
   * Will decide upon criteria to be used for OSS project selection
@@ -22,7 +35,7 @@
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
   * Will work on finishing Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running: see recent status (as of last commit) in [results.md](http://github.com/COSCS340/webserver/blob/master/results.md) Thank you @bobzap66 for the presentation in class
-  * Please take a look at [your team status](https://github.com/COSCS340/webserver), mailestones and assignees are still missing.
+  * Please take a look at [your team status](https://github.com/COSCS340/status), milestones and assignees are still missing.
 
 # Class 13: Feb 7
   * Software Process
