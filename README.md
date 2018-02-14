@@ -17,6 +17,7 @@
   * An issue for each one of you has been created regarding this assignment
   * I will create another issue for the project selection
   * Continue lecture on software architecture
+  * Please make sure you have only **one** person assigned to an issue at one time, I will not count additional assignees as working on the issue. Also, assign only to issues that are in the ** current ** sprint with a due date. [Current report](https://github.com/COSCS340/status/blob/master/issues.md)
 
 # Class 15: Feb 12
   * Will decide upon criteria to be used for OSS project selection
