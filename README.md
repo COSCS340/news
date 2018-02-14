@@ -3,16 +3,17 @@
 
 # Class 19: Feb 21
   * Work on Final Project and OSS contribution
-
-# Class 18: Feb 19
   * Final OSS projects selected and submitted in (by editing the same oss/yournetid.md file)
+# Class 18: Feb 19
+  * 
 
 # Class 17: Feb 16
   * Work on Final Project Sprint 1 due
   * Work on selecting OSS project
+  * Clarification on how to use issues: add ready to review label when done
   
 # Class 16: Feb 14
-  * A candidate set of at least two projects is to be submitted 
+  * ** Only criteria for project selection are needed *** Actual projects are due next week
       for options see [Section A](https://github.com/COSCS340/lectures/blob/master/ContributingToOSS.md). The instructions on how to submit are [here](https://github.com/COSCS340/oss/blob/master/README.md)
   * An issue for each one of you has been created regarding this assignment
   * I will create another issue for the project selection
