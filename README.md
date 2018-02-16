@@ -10,7 +10,16 @@
 # Class 17: Feb 16
   * Work on Final Project Sprint 1 due
   * Work on selecting OSS project
-  * Clarification on how to use issues: add ready to review label when done
+  * Clarification on how to use issues assigned to you (OSS): 
+      - Pay attention to the due date
+      - Add 'ready to review' label when the changes are done: then somone else will close the issue
+  * Each final project needs a milestone for each sprint and a backlog
+  * Issues that are worked currently belong to current sprint
+  * Each person needs to be assigned to at least one issue from the current sprint
+  * Each issue can not have more than one person assigned to it. 
+  * When the sprint ends and the issues's story is implemented and tested issue gets label 'ready to review'
+  * Another person from the project then clrevies and, if satisfied, closes
+  * If the story is incomplete, the issue is moved to the next sprint
   
 # Class 16: Feb 14
   * ** Only criteria for project selection are needed *** Actual projects are due next week
