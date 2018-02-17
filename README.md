@@ -5,7 +5,8 @@
   * Work on Final Project and OSS contribution
   * Final OSS projects selected and submitted in (by editing the same oss/yournetid.md file)
 # Class 18: Feb 19
-  * 
+  * Make sure you have no past due isues https://github.com/COSCS340/oss/issues?q=is%3Aopen+assignee%3Ayourghid
+  * If so, do what is requested and add "Ready to review" label once done
 
 # Class 17: Feb 16
   * Work on Final Project Sprint 1 due
