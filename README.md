@@ -1,4 +1,5 @@
 # Class 20: Feb 23
+  * Benjamin Klein will run a workshop on Git Workflows
   * Work on Final Project and OSS contribution
 
 # Class 19: Feb 21
