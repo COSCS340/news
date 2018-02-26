@@ -1,3 +1,14 @@
+# Class 23: March 2
+  * Validation and verification (continued)
+
+# Class 22: Feb 28
+  * Validation and verification
+  
+# Class 21: Feb 26
+  * Finish OSS Sprint 2: guidlines on scoring sprint 1 and 2
+  * Please have an issue assigned to you for your course project
+  * Work on Final Project and OSS contribution
+
 # Class 20: Feb 23
   * Benjamin Klein will run a workshop on Git Workflows
   * Work on Final Project and OSS contribution
