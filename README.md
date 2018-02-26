@@ -3,6 +3,7 @@
 
 # Class 22: Feb 28
   * Validation and verification
+  * Finish OSS Sprint 2: make sure all sources are specified and (if not available) explained.
   
 # Class 21: Feb 26
   * Finish OSS Sprint 2: guidlines on scoring sprint 1 and 2
