@@ -1,3 +1,12 @@
+# Class 26: March 9
+  * Work on final project
+
+# Class 25: March 7
+  * Validation and verification (continued)
+
+# Class 24: March 5
+  * Validation and verification (continued)
+
 # Class 23: March 2
   * Validation and verification (continued)
 
