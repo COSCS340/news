@@ -1,9 +1,22 @@
-# Class 29: March 26
+# Class 42-44: April 2[357]
+   * Class project presentations
+# Class 41: April 20
+# Class 40: April 18
+# Class 39: April 16
+# Class 38: April 13
+# Class 37: April 11
+# Class 36: April 9
+  * OSS "Sprint 6: Make and document your contribution" is due
+# Class 35: April 6
+# Class 34: April 4
+# Class 33: April 2
+  * OSS "Sprint 5: Select the first task" is due
 
+# Class 32: March 30
+# Class 31: March 28
+# Class 30: March 26
 # Class 29: March 23
-
 # Class 28: March 21
-
 # Class 27: March 19
   * OSS "Sprint 4: Develop a plan for contribution" is due
   
