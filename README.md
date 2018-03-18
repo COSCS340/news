@@ -1,3 +1,12 @@
+# Class 29: March 26
+
+# Class 29: March 23
+
+# Class 28: March 21
+
+# Class 27: March 19
+  * OSS "Sprint 4: Develop a plan for contribution" is due
+  
 # Class 26: March 9
   * Work on final project
 
