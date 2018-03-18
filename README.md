@@ -15,10 +15,12 @@
 # Class 32: March 30
   * Spring Recess
 # Class 31: March 28
+  * Minimum viable system demo/Project Status due  
 # Class 30: March 26
   * ACM Webinar: Risky File Analysis
 # Class 29: March 23
 # Class 28: March 21
+  * Minimum viable system demo/Project Status introduced
 # Class 27: March 19
   * OSS "Sprint 4: Develop a plan for contribution" is due
   
