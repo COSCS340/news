@@ -1,8 +1,9 @@
 # Class 42-44: April 2[357]
-   * Class project presentations
+   * Final project presentations
 # Class 41: April 20
-# Class 40: April 18
-# Class 39: April 16
+   * work on finishig the remaining presentations
+# Class 39-40: April 1[68]
+   * Final project presentations
 # Class 38: April 13
 # Class 37: April 11
 # Class 36: April 9
@@ -11,8 +12,8 @@
 # Class 34: April 4
 # Class 33: April 2
   * OSS "Sprint 5: Select the first task" is due
-
 # Class 32: March 30
+  * Spring Recess
 # Class 31: March 28
 # Class 30: March 26
   * ACM Webinar: Risky File Analysis
