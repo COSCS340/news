@@ -260,6 +260,11 @@ These apply to real life, as well.
 
 * Assignments - 25%: Each assignment will involve writing (or modifying a template of)
    a small Python program or a documentation of an open source contribution.
+   * Deploying to Cloud: (5% of total course grade)
+   * OSS Sprint 1 and 2: (5% of total course grade)
+   * OSS Sprint 2 and 3: (5% of total course grade)
+   * OSS Sprint 4 and 5: (5% of total course grade)
+   * OSS Sprint 6: (5% of total course grade)
 
 * Project - 50%: one original project a group of 4
    students. The project will explore one or more of the themes covered
@@ -276,12 +281,9 @@ be found). This work accounts for a major portion of your course grade (50%), so
 teammates wisely. The course project consists of a series of presentations and deliverables that
 will be assigned throughout the semester. The grade breakdown is shown below:
 
-1. Preliminary Project Proposal (5%)
-2. Revised Project Proposal (5%)
-3. Status Report (Sprint) 1 (5%)
-4. Status Report (Sprint) 2 (5%)
-5. Status Report (Sprint) 3 (5%)
-6. Final Project (Report + Demo) (25%)
+1. Project Proposal (10% of total course grade)
+3. Status Report (around Sprint 3) (15% of total course grade)
+4. Final Project (Report + Demo) (25% of total course grade)
 
 Each student in the group should have a role and be able to explain their individual contribution
 to the project. We will take into account student feedback on the project and on their teammates
