@@ -15,7 +15,22 @@
 # Class 32: March 30
   * Spring Recess
 # Class 31: March 28
-  * Minimum viable system demo/Project Status due  
+  * Minimum viable system demo/Project Status due
+  * Project numbers
+      1.  Archery_and_arcana.md
+      2.  Cryptocurrency_Sentiment_Analysis
+      3.  DnD_Town_Generator
+      4.  Gift_Planner.md
+      5.  Growlist App - Team TBA
+      6.  Mitosis_In_Unity
+      7.  OoT_Randomizer
+      8.  PhoneGames
+      9.  Quantifying_Corruption
+      10. Quantum Stock Optimization
+      11. Select-A-Spot
+      12. Unity Simple Role Playing Game
+      13. Waitlist_App
+
 # Class 30: March 26
   * ACM Webinar: Risky File Analysis
 # Class 29: March 23
