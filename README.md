@@ -15,8 +15,8 @@
 # Class 32: March 30
   * Spring Recess
 # Class 31: March 28
-  * Minimum viable system demo/Project Status due
-  * Project numbers
+  * [Minimum viable system demo/Project Status due](https://github.com/COSCS340/lectures/blob/master/project_status.pdf)
+  * Project numbers 
       1.  Archery_and_arcana.md
       2.  Cryptocurrency_Sentiment_Analysis
       3.  DnD_Town_Generator
