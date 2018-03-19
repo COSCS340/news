@@ -20,9 +20,12 @@
   * ACM Webinar: Risky File Analysis
 # Class 29: March 23
 # Class 28: March 21
-  * Minimum viable system demo/Project Status introduced
+  * Software Patterns: continued
+  
 # Class 27: March 19
   * OSS "Sprint 4: Develop a plan for contribution" is due
+  * Minimum viable system demo/Project Status introduced
+  * Software Patterns
   
 # Class 26: March 9
   * Work on final project
