@@ -29,7 +29,17 @@
       10. Quantum Stock Optimization
       11. Select-A-Spot
       12. Unity Simple Role Playing Game
-      13. Waitlist_App
+      13. Waitlist_AppIntroduction (10 points)
+   * Grading rubrik for status report (in your projectrepo/STATUS.md)
+      * Customer Value (5 points)
+      * Technology (15 points)
+      * Team (10 points)
+      * Project Management (10 points)
+      * Reflection (10 points)
+      * Tone, Grammar,Formatting, Readability (10 points)
+      * Demo (30 points)
+      * Total (out of 100 points)
+
 
 # Class 30: March 26
   * ACM Webinar: Risky File Analysis
