@@ -4,14 +4,13 @@
    * work on finishig the remaining presentations
 # Class 39-40: April 1[68]
    * Final project presentations
-# Class 38: April 13
-# Class 37: April 11
+# Class 38: April 1[13]
+  * Work on final project
 # Class 36: April 9
   * OSS "Sprint 6: Make and document your contribution" is due
-# Class 35: April 6
-# Class 34: April 4
-# Class 33: April 2
+# Class 33: April [246]
   * OSS "Sprint 5: Select the first task" is due
+  * Work on final project
 # Class 32: March 30
   * Spring Recess
 # Class 31: March 28
