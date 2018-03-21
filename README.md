@@ -45,12 +45,15 @@
 
 # Class 30: March 26
   * [ACM Webinar: Risky File Analysis](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=https%3A%2F%2Fwww.sigsoft.org%2Fresources%2Fwebinars.html&eventid=1580858&sessionid=1&key=9286A43FF175A8CEA84A428791586FCE&regTag=&sourcepage=register)
-       - The even will be online
+       - The event will be online
        - It will start at 12:00 PM Eastern Daylight Time
 # Class 29: March 23
+  * Work on final project
+  * Present a demo
 # Class 28: March 21
   * Software Patterns: continued
-  
+  * Work on final project
+  * Present a demo  
 # Class 27: March 19
   * OSS "Sprint 4: Develop a plan for contribution" is due
   * Minimum viable system demo/Project Status introduced
