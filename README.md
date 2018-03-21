@@ -38,6 +38,7 @@
       * Reflection (10 points)
       * Tone, Grammar,Formatting, Readability (10 points)
       * Demo (30 points)
+           - Demo has to match requirements on what is to be implemented in the status report
       * Total (out of 100 points)
 
 
