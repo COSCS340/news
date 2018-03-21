@@ -16,6 +16,7 @@
   * Spring Recess
 # Class 31: March 28
   * [Minimum viable system demo/Project Status due](https://github.com/COSCS340/lectures/blob/master/project_status.pdf)
+  * Please use TA office hours or class time or schedule (at least 15min) separately with TA
   * Project numbers 
       1.  Archery_and_arcana.md
       2.  Cryptocurrency_Sentiment_Analysis
