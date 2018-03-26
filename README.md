@@ -47,6 +47,7 @@
   * [ACM Webinar: Risky File Analysis](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=https%3A%2F%2Fwww.sigsoft.org%2Fresources%2Fwebinars.html&eventid=1580858&sessionid=1&key=9286A43FF175A8CEA84A428791586FCE&regTag=&sourcepage=register)
        - The event will be online
        - It will start at 12:00 PM Eastern Daylight Time
+       - Register, listen, and, for extra credit, submit a question
 # Class 29: March 23
   * Work on final project
   * Present a demo
