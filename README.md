@@ -1,6 +1,12 @@
-# Class 42-44: April 2[357]
+# Class 44: April 27
    * Final project presentations
-   * PhoneGames: Apr 27
+   * PhoneGames
+   * Quantum Stock Optimization
+   * Unity Simple Role Playing Game
+# Class 43: April 25
+   * GiftLink
+# Class 42: April 23
+   * QuantifyingCorruption   
 # Class 41: April 20
    * work on finishig the remaining presentations
 # Class 39-40: April 1[68]
