@@ -1,23 +1,34 @@
 # Class 44: April 27
-   * Final project presentations
+   * Final project presentations (full)
    * PhoneGames
    * Quantum Stock Optimization
    * Unity Simple Role Playing Game
 # Class 43: April 25
    * GiftLink
+   * Open 
+   * Open
 # Class 42: April 23
-   * QuantifyingCorruption   
+   * QuantifyingCorruption
+   * Open
+   * Open
 # Class 41: April 20
    * work on finishig the remaining presentations
-# Class 39-40: April 1[68]
-   * Final project presentations
+# Class 40: April 18
+   * Open
+   * Open
+   * Open
+# Class 39-40: April 16
+   * Open
+   * Open
+   * Open
 # Class 38: April 1[13]
   * Work on final project
 # Class 36: April 9
   * OSS "Sprint 6: Make and document your contribution" is due
-# Class 33: April [246]
-  * OSS "Sprint 5: Select the first task" is due
+# Class 3[45]: April [46]
   * Work on final project
+# Class 33: April 2
+  * OSS "Sprint 5: Select the first task" is due
 # Class 32: March 30
   * Spring Recess
 # Class 31: March 28
