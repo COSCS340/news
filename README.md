@@ -5,7 +5,7 @@
    * Unity Simple Role Playing Game
 # Class 43: April 25
    * GiftLink
-   * Open 
+   * WaitList 
    * Open
 # Class 42: April 23
    * QuantifyingCorruption
