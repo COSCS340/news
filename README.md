@@ -1,5 +1,4 @@
 # Class 44: April 27
-   * Final project presentations (full)
    * PhoneGames
    * Quantum Stock Optimization
    * Unity Simple Role Playing Game
@@ -7,11 +6,10 @@
    * GiftLink
    * WaitList 
    * Growlist
-   * MitosisSimulation
 # Class 42: April 23
    * QuantifyingCorruption
-   * Open
-   * Open
+   * MitosisSimulation
+   * Select-A-Spot
 # Class 41: April 20
    * work on finishig the remaining presentations
 # Class 40: April 18
