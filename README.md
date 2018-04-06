@@ -6,7 +6,7 @@
 # Class 43: April 25
    * GiftLink
    * WaitList 
-   * Open
+   * MitosisSimulation
 # Class 42: April 23
    * QuantifyingCorruption
    * Open
