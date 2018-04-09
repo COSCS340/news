@@ -15,7 +15,7 @@
 # Class 40: April 18
    * DnD_Town_Generator
    * Arc&Arcana
-   * Open
+   * Team_Z
 # Class 39-40: April 16
    * Open
    * Open
