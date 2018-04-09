@@ -13,8 +13,8 @@
 # Class 41: April 20
    * work on finishig the remaining presentations
 # Class 40: April 18
-   * Open
-   * Open
+   * DnD_Town_Generator
+   * Arc&Arcana
    * Open
 # Class 39-40: April 16
    * Open
