@@ -22,6 +22,7 @@
   * If you want to change presentation times talk to another team that might be willing to switch
   * If all else fails, it is possible to fall back to the final exam time slot
   * [Final Project Report](https://github.com/COSCS340/lectures/blob/master/project_final_report.pdf)
+  * A part of the Final Project Report will be your individual reflections about the final project. It is [an assignment on Canvas](https://utk.instructure.com/courses/45018/assignments/248863), separate from the FINAL_REPORT.md that should be in your teams repository. Both are due May 1, 2018.
 # Class 36: April 9
   * OSS "Sprint 6: Make and document your contribution" is due
 # Class 3[45]: April [46]
