@@ -19,7 +19,8 @@
 # Class 39: April 16
    * Crypto-Currency-Sentiment-Analysis   
 # Class 3[78]: April 1[13]
-  * Work on final project
+  * If you want to change presentation times talk to another team that might be willing to switch
+  * If all else fails, it is possible to fall back to the final exam time slot
   * [Final Project Report](https://github.com/COSCS340/lectures/blob/master/project_final_report.pdf)
 # Class 36: April 9
   * OSS "Sprint 6: Make and document your contribution" is due
