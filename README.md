@@ -16,9 +16,9 @@
    * DnD_Town_Generator
    * Arc&Arcana
    * OoT_Randomiser
-# Class 39-40: April 16
+# Class 39: April 16
    * Crypto-Currency-Sentiment-Analysis   
-# Class 38: April 1[13]
+# Class 3[78]: April 1[13]
   * Work on final project
   * [Final Project Report](https://github.com/COSCS340/lectures/blob/master/project_final_report.pdf)
 # Class 36: April 9
