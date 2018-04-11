@@ -15,13 +15,12 @@
 # Class 40: April 18
    * DnD_Town_Generator
    * Arc&Arcana
-   * Team_Z
+   * OoT_Randomiser
 # Class 39-40: April 16
-   * Open
-   * Open
-   * Open
+   * Crypto-Currency-Sentiment-Analysis   
 # Class 38: April 1[13]
   * Work on final project
+  * [Final Project Report](https://github.com/COSCS340/lectures/blob/master/project_final_report.pdf)
 # Class 36: April 9
   * OSS "Sprint 6: Make and document your contribution" is due
 # Class 3[45]: April [46]
