@@ -1,3 +1,6 @@
+# Course evaluations are open
+  * https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 30
+  
 # Class 44: April 27
    * PhoneGames
    * Quantum Stock Optimization
