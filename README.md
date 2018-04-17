@@ -1,18 +1,158 @@
+# Course evaluations are open
+  * https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 30
+  
+# Class 44: April 27
+   * PhoneGames
+   * Quantum Stock Optimization
+   * Unity Simple Role Playing Game
+   * Crypto-Currency-Sentiment-Analysis
+# Class 43: April 25
+   * GiftLink
+   * WaitList 
+   * Growlist
+# Class 42: April 23
+   * QuantifyingCorruption
+   * MitosisSimulation
+   * Select-A-Spot
+# Class 41: April 20
+   * work on finishig the remaining presentations
+# Class 40: April 18
+   * DnD_Town_Generator
+   * Arc&Arcana
+   * OoT_Randomiser
+# Class 39: April 16
+   * Work on final project   
+# Class 3[78]: April 1[13]
+  * If you want to change presentation times talk to another team that might be willing to switch
+  * If all else fails, it is possible to fall back to the final exam time slot
+  * [Final Project Report](https://github.com/COSCS340/lectures/blob/master/project_final_report.pdf) is due May 1!
+  * A part of the Final Project Report will be your individual reflections about the final project. It is [an assignment on Canvas](https://utk.instructure.com/courses/45018/assignments/248863), separate from the FINAL_REPORT.md that should be in your teams repository. Both are due May 1, 2018.
+# Class 36: April 9
+  * OSS "Sprint 6: Make and document your contribution" is due
+# Class 3[45]: April [46]
+  * Work on final project
+# Class 33: April 2
+  * OSS "Sprint 5: Select the first task" is due
+# Class 32: March 30
+  * Spring Recess
+# Class 31: March 28
+  * [Minimum viable system demo/Project Status due](https://github.com/COSCS340/lectures/blob/master/project_status.pdf)
+  * Please use TA office hours or class time or schedule (at least 15min) separately with TA
+  * Project numbers 
+      1.  Archery_and_arcana.md
+      2.  Cryptocurrency_Sentiment_Analysis
+      3.  DnD_Town_Generator
+      4.  Gift_Planner.md
+      5.  Growlist App - Team TBA
+      6.  Mitosis_In_Unity
+      7.  OoT_Randomizer
+      8.  PhoneGames
+      9.  Quantifying_Corruption
+      10. Quantum Stock Optimization
+      11. Select-A-Spot
+      12. Unity Simple Role Playing Game
+      13. Waitlist_AppIntroduction (10 points)
+   * Grading rubrik for status report (in your projectrepo/STATUS.md)
+      * Customer Value (5 points)
+      * Technology (15 points)
+      * Team (10 points)
+      * Project Management (10 points)
+      * Reflection (10 points)
+      * Tone, Grammar,Formatting, Readability (10 points)
+      * Demo (30 points)
+           - Demo has to match requirements on what is to be implemented in the status report
+      * Total (out of 100 points)
+
+
+# Class 30: March 26
+  * [ACM Webinar: Risky File Analysis](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=https%3A%2F%2Fwww.sigsoft.org%2Fresources%2Fwebinars.html&eventid=1580858&sessionid=1&key=9286A43FF175A8CEA84A428791586FCE&regTag=&sourcepage=register)
+       - The event will be online
+       - It will start at 12:00 PM Eastern Daylight Time
+       - Register, listen, and, for extra credit, submit a question
+# Class 29: March 23
+  * Work on final project
+  * Present a demo
+# Class 28: March 21
+  * Software Patterns: continued
+  * Work on final project
+  * Present a demo  
+# Class 27: March 19
+  * OSS "Sprint 4: Develop a plan for contribution" is due
+  * Minimum viable system demo/Project Status introduced
+  * Software Patterns
+  
+# Class 26: March 9
+  * Work on final project
+
+# Class 25: March 7
+  * Validation and verification (continued)
+
+# Class 24: March 5
+  * Validation and verification (continued)
+
+# Class 23: March 2
+  * Validation and verification (continued)
+
+# Class 22: Feb 28
+  * Validation and verification
+  * Finish OSS Sprint 2: make sure all sources are specified and (if not available) explained.
+  
+# Class 21: Feb 26
+  * Finish OSS Sprint 2: guidlines on scoring sprint 1 and 2
+  * Please have an issue assigned to you for your course project
+  * Work on Final Project and OSS contribution
+
+# Class 20: Feb 23
+  * Benjamin Klein will run a workshop on Git Workflows
+  * Work on Final Project and OSS contribution
+
+# Class 19: Feb 21
+  * Work on Final Project and OSS contribution
+  * Final OSS projects selected and submitted in (by editing the same oss/yournetid.md file)
+# Class 18: Feb 19
+  * Make sure you have no past due isues https://github.com/COSCS340/oss/issues?q=is%3Aopen+assignee%3Ayourghid
+  * If so, do what is requested and add "Ready to review" label once done
+
 # Class 17: Feb 16
-  * a final OSS projects is selected 
+  * Work on Final Project Sprint 1 due
+  * Work on selecting OSS project
+  * Clarification on how to use issues assigned to you (OSS): 
+      - Pay attention to the due date
+      - Add 'ready to review' label when the changes are done: then somone else will close the issue
+  * Each final project needs a milestone for each sprint and a backlog
+  * Issues that are worked currently belong to current sprint
+  * Each person needs to be assigned to at least one issue from the current sprint
+  * Each issue can not have more than one person assigned to it. 
+  * When the sprint ends and the issues's story is implemented and tested issue gets label 'ready to review'
+  * Another person from the project then clrevies and, if satisfied, closes
+  * If the story is incomplete, the issue is moved to the next sprint
   
 # Class 16: Feb 14
-  * a candidate set of at least two projects is submitted 
+  * ** Only criteria for project selection are needed *** Actual projects are due next week
+      for options see [Section A](https://github.com/COSCS340/lectures/blob/master/ContributingToOSS.md). The instructions on how to submit are [here](https://github.com/COSCS340/oss/blob/master/README.md)
+  * An issue for each one of you has been created regarding this assignment
+  * I will create another issue for the project selection
+  * Continue lecture on software architecture
+  * Please make sure you have only **one** person assigned to an issue at one time, I will not count additional assignees as working on the issue. Also, assign only to issues that are in the ** current ** sprint with a due date. [Current report](https://github.com/COSCS340/status/blob/master/issues.md)
 
 # Class 15: Feb 12
   * Will decide upon criteria to be used for OSS project selection
   * Final opportunity to finish Assignment 1: [see details: thanks @robobenklein]https://github.com/COSCS340/How-to-Gcloud/blob/master/README.md) or [original instructions](https://github.com/COSCS340/webserver/blob/master/README.md)
   * Ensure all projects have milestones and all members are assigned an issue (for the current sprint milestone) 
+  
+       1. Create a milestone "Backlog" (or whatever name) with no due date : it will be your backlog
+       1. Create a milestone per Sprint with a due date
+       1. Create issues in milestone "Backlog"
+       1. Create two labels "Ready to review" and "In Progress"
+       1. Add an estimate of effort [x] in points in the issue title, for example: "Restructure data [3]" (use 1 2 or 3)
+       1. Create Pull Request in sprint milestone with tag "Ready to review"
+       1. If you'd like you can use [zenhub](https://www.zenhub.com/blog/how-to-use-github-agile-project-management/)
+  * Will start lecture on [Architecture](https://github.com/COSCS340/lectures/blob/master/software_architecture.pdf)
 
 # Class 14: Feb 9
   * Chose an Open Source project to contribute to
   * Will work on finishing Assignment1: Create a docker container, deploy to GC, provide IP adress of the machine so that I can check if the web service is running: see recent status (as of last commit) in [results.md](http://github.com/COSCS340/webserver/blob/master/results.md) Thank you @bobzap66 for the presentation in class
-  * Please take a look at [your team status](https://github.com/COSCS340/webserver), mailestones and assignees are still missing.
+  * Please take a look at [your team status](https://github.com/COSCS340/status), milestones and assignees are still missing.
 
 # Class 13: Feb 7
   * Software Process
@@ -177,6 +317,11 @@ These apply to real life, as well.
 
 * Assignments - 25%: Each assignment will involve writing (or modifying a template of)
    a small Python program or a documentation of an open source contribution.
+   * Deploying to Cloud: (5% of total course grade)
+   * OSS Sprint 1 and 2: (5% of total course grade)
+   * OSS Sprint 2 and 3: (5% of total course grade)
+   * OSS Sprint 4 and 5: (5% of total course grade)
+   * OSS Sprint 6: (5% of total course grade)
 
 * Project - 50%: one original project a group of 4
    students. The project will explore one or more of the themes covered
@@ -193,12 +338,9 @@ be found). This work accounts for a major portion of your course grade (50%), so
 teammates wisely. The course project consists of a series of presentations and deliverables that
 will be assigned throughout the semester. The grade breakdown is shown below:
 
-1. Preliminary Project Proposal (5%)
-2. Revised Project Proposal (5%)
-3. Status Report (Sprint) 1 (5%)
-4. Status Report (Sprint) 2 (5%)
-5. Status Report (Sprint) 3 (5%)
-6. Final Project (Report + Demo) (25%)
+1. Project Proposal (10% of total course grade)
+3. Status Report (around Sprint 3) (15% of total course grade)
+4. Final Project (Report + Demo) (25% of total course grade)
 
 Each student in the group should have a role and be able to explain their individual contribution
 to the project. We will take into account student feedback on the project and on their teammates
