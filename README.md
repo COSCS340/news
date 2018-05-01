@@ -1,6 +1,22 @@
 # Course evaluations are open
   * https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 30
-  
+  * Note on the future of the final project repositories
+
+I have no plans to remove or modify this repository, 
+so you can continue working on it if you chose to do so.  I create a separate github 
+organization for each class I teach, so nothing will be changed or overwritten (by me) and
+your ownership of the repo will remain. It the code produced might be of wider use, I'd recommend
+you add a suitable license to it (e.g., gpl, apache, or mozilla) to clarify the terms of use.
+
+Furthermore, I'd like to make these projects public (if you have not made them public yet), 
+but this can only be done if everyone on your team agrees to do so for your project. 
+You can keep it private, copy it to another organization (after the end of semester) if you wish, 
+however. I enabled administrative privileges on your repo for
+all team members, so you can make it private/public add/remove team members, etc.
+
+Longer term, the projects will stay here as long as GitHub keeps them, and I'll try to find
+alternative home if GitHub decides to end its hosting.
+
 # Class 44: April 27
    * PhoneGames
    * Quantum Stock Optimization
